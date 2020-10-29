@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on Karim EL-KHEDDOUMI</title>
+    <link>https://elkheddoumi10.github.io/karim_portfolio/tags/python/</link>
+    <description>Recent content in Python on Karim EL-KHEDDOUMI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 09 Oct 2020 10:58:08 -0400</lastBuildDate><atom:link href="https://elkheddoumi10.github.io/karim_portfolio/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project V: Credit card fraud detection</title>
+      <link>https://elkheddoumi10.github.io/karim_portfolio/post/project-1/</link>
+      <pubDate>Fri, 09 Oct 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://elkheddoumi10.github.io/karim_portfolio/post/project-1/</guid>
+      <description>According to the world payments report for 2020, the global non-cash transaction voulumes grew 14% (2018-2019) to reach 708.5 billion-the highest surge in the past decade. Also, it’s expected that in future years there will be a steady growth of non-cash transactions as shown below:   This is a good news for those who takes illegal ways to gain money from other&amp;rsquo;s credit cards. What can we do to face this kind of fraud and minimize the risk as much as we can?</description>
+    </item>
+    
+    <item>
+      <title>Project II: Face recognition attendence application</title>
+      <link>https://elkheddoumi10.github.io/karim_portfolio/post/project-3/</link>
+      <pubDate>Mon, 11 Nov 2019 11:13:32 -0400</pubDate>
+      
+      <guid>https://elkheddoumi10.github.io/karim_portfolio/post/project-3/</guid>
+      <description>Attendance issues are among the most challenging problems teachers face in their classrooms. Classroom management is one of the key areas where a lot of time is wasted. Replacing these manual tasks of attendance taking, assignments management with some innovations soloutions using IA and face recognation models can save a lot of precious teaching time. In this project we build a simple application using Python and openCV with a tkinter gui interface.</description>
+    </item>
+    
+  </channel>
+</rss>

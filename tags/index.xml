@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Karim EL-KHEDDOUMI</title>
+    <link>https://elkheddoumi10.github.io/karim_portfolio/tags/</link>
+    <description>Recent content in Tags on Karim EL-KHEDDOUMI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 09 Oct 2020 10:58:08 -0400</lastBuildDate><atom:link href="https://elkheddoumi10.github.io/karim_portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deep Learning</title>
+      <link>https://elkheddoumi10.github.io/karim_portfolio/tags/deep-learning/</link>
+      <pubDate>Fri, 09 Oct 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://elkheddoumi10.github.io/karim_portfolio/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://elkheddoumi10.github.io/karim_portfolio/tags/python/</link>
+      <pubDate>Fri, 09 Oct 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://elkheddoumi10.github.io/karim_portfolio/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TansorFlow</title>
+      <link>https://elkheddoumi10.github.io/karim_portfolio/tags/tansorflow/</link>
+      <pubDate>Fri, 09 Oct 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://elkheddoumi10.github.io/karim_portfolio/tags/tansorflow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decision suport systems</title>
+      <link>https://elkheddoumi10.github.io/karim_portfolio/tags/decision-suport-systems/</link>
+      <pubDate>Mon, 07 Sep 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://elkheddoumi10.github.io/karim_portfolio/tags/decision-suport-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Java</title>
+      <link>https://elkheddoumi10.github.io/karim_portfolio/tags/java/</link>
+      <pubDate>Mon, 07 Sep 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://elkheddoumi10.github.io/karim_portfolio/tags/java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>knowledge compilation</title>
+      <link>https://elkheddoumi10.github.io/karim_portfolio/tags/knowledge-compilation/</link>
+      <pubDate>Mon, 07 Sep 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://elkheddoumi10.github.io/karim_portfolio/tags/knowledge-compilation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>openCV</title>
+      <link>https://elkheddoumi10.github.io/karim_portfolio/tags/opencv/</link>
+      <pubDate>Mon, 11 Nov 2019 11:13:32 -0400</pubDate>
+      
+      <guid>https://elkheddoumi10.github.io/karim_portfolio/tags/opencv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tkinter</title>
+      <link>https://elkheddoumi10.github.io/karim_portfolio/tags/tkinter/</link>
+      <pubDate>Mon, 11 Nov 2019 11:13:32 -0400</pubDate>
+      
+      <guid>https://elkheddoumi10.github.io/karim_portfolio/tags/tkinter/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

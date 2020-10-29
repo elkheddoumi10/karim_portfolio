@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Karim EL-KHEDDOUMI</title>
+    <link>https://elkheddoumi10.github.io/karim_portfolio/post/</link>
+    <description>Recent content in Projects on Karim EL-KHEDDOUMI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://elkheddoumi10.github.io/karim_portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project V: Credit card fraud detection</title>
+      <link>https://elkheddoumi10.github.io/karim_portfolio/post/project-1/</link>
+      <pubDate>Fri, 09 Oct 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://elkheddoumi10.github.io/karim_portfolio/post/project-1/</guid>
+      <description>According to the world payments report for 2020, the global non-cash transaction voulumes grew 14% (2018-2019) to reach 708.5 billion-the highest surge in the past decade. Also, it’s expected that in future years there will be a steady growth of non-cash transactions as shown below:   This is a good news for those who takes illegal ways to gain money from other&amp;rsquo;s credit cards. What can we do to face this kind of fraud and minimize the risk as much as we can?</description>
+    </item>
+    
+    <item>
+      <title>Project IV: Master thesis internship at IRIT: Preferences compilation for decision suport systems</title>
+      <link>https://elkheddoumi10.github.io/karim_portfolio/post/project-5/</link>
+      <pubDate>Mon, 07 Sep 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://elkheddoumi10.github.io/karim_portfolio/post/project-5/</guid>
+      <description>General context The Master&amp;rsquo;s level Internships provide the opportunity for hands-on experience in a student affairs setting. I had the chance to add an interesting experience to my CV by doing a 5-month internship with Institut de recherche en informatique de Toulouse (IRIT) as part of ANITI project. In this internship I worked on the following subject &amp;ldquo;Preferences compilation for decision suport systems&amp;rdquo; in the next section I&amp;rsquo;ll explainto you the subject in more detail.</description>
+    </item>
+    
+    <item>
+      <title>Project III: Sentiment analysis in a big data environment</title>
+      <link>https://elkheddoumi10.github.io/karim_portfolio/post/project-2/</link>
+      <pubDate>Fri, 10 Jan 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://elkheddoumi10.github.io/karim_portfolio/post/project-2/</guid>
+      <description>Sentiment analysis is the process of using text analytics to mine various sources of data for opinions. Often, sentiment analysis is done on the data that is collected from the Internet and from various social media platforms. Politicians and governments often use sentiment analysis to understand how the people feel about themselves and their policies.
+In this project I tried to use big data tools to build a real-time system wich is able to recognize voice and transforming it to text using google API speech_to_text, then process the resulting text using Spark streaming finally show an intuitive graph showing each word frequency.</description>
+    </item>
+    
+    <item>
+      <title>Project II: Face recognition attendence application</title>
+      <link>https://elkheddoumi10.github.io/karim_portfolio/post/project-3/</link>
+      <pubDate>Mon, 11 Nov 2019 11:13:32 -0400</pubDate>
+      
+      <guid>https://elkheddoumi10.github.io/karim_portfolio/post/project-3/</guid>
+      <description>Attendance issues are among the most challenging problems teachers face in their classrooms. Classroom management is one of the key areas where a lot of time is wasted. Replacing these manual tasks of attendance taking, assignments management with some innovations soloutions using IA and face recognation models can save a lot of precious teaching time. In this project we build a simple application using Python and openCV with a tkinter gui interface.</description>
+    </item>
+    
+    <item>
+      <title>Project I: The nurse scheduling problem (NSP) implimentation with choco solver</title>
+      <link>https://elkheddoumi10.github.io/karim_portfolio/post/project-4/</link>
+      <pubDate>Mon, 10 Jun 2019 11:00:59 -0400</pubDate>
+      
+      <guid>https://elkheddoumi10.github.io/karim_portfolio/post/project-4/</guid>
+      <description>The nurse scheduling problem (NSP) implimentation with choco solver The nurse scheduling problem (NSP, also called the nurse rostering problem (NRP), is the operations research problem of finding an optimal way to assign nurses to shifts, typically with a set of hard constraints which all valid solutions must follow, and a set of soft constraints which define the relative quality of valid solutions.Solutions to the nurse scheduling problem can be applied to constrained scheduling problems in other fields.</description>
+    </item>
+    
+  </channel>
+</rss>
